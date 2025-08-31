@@ -281,24 +281,26 @@ This guide provides a structured approach to learning clean code principles. Fol
 
 ### Week 8: Unit Tests and Test-Driven Development
 **Priority**: 🔥 Essential - Foundation of maintainable code
-**Status**: 🚧 **PLANNED** - Content to be developed
+**Status**: ✅ **COMPLETE** - Ready for learning
 
 **Learning Goals**:
-- Write clean, maintainable tests
-- Understand test structure and naming
-- Learn TDD workflow and benefits
-- Master test doubles and mocking
+- Master Test-Driven Development (Red-Green-Refactor cycle)
+- Write clean, fast, and maintainable tests
+- Apply FIRST principles (Fast, Independent, Repeatable, Self-validating, Timely)
+- Use test doubles effectively (mocks, stubs, fakes)
+- Design testable code with proper dependency injection
 
-**Planned Activities**:
-1. **Read the principle**: `/principles/08-unit-tests/README.md` *(to be created)*
-2. **Study test examples**: `/examples/before-after/testing-examples/` *(to be created)*
-3. **Complete TDD exercises**: `/exercises/principle-practice/08-testing/` *(to be created)*
-4. **Practice test design**: Clean test structure and naming
+**Activities**:
+1. **Read the principle**: [`/principles/08-unit-tests/README.md`](./principles/08-unit-tests/README.md) - TDD mastery and testing best practices
+2. **Study test examples**: [`/examples/before-after/testing-examples/`](./examples/before-after/testing-examples/README.md) - Untested code to comprehensive TDD examples
+3. **Complete TDD exercises**: [`/exercises/principle-practice/08-unit-tests/`](./exercises/principle-practice/08-unit-tests/README.md) - FizzBuzz kata to full API projects
+4. **Apply daily checklist**: [`/principles/08-unit-tests/checklist.md`](./principles/08-unit-tests/checklist.md) - Testing code review guidelines
 
 **Success Metrics**:
-- Tests are easy to read and understand
-- High test coverage for critical functionality
-- Tests serve as living documentation
+- Can write tests before production code (TDD workflow)
+- Tests are fast, isolated, and reliable
+- Comprehensive coverage including edge cases and error conditions
+- Tests serve as living documentation and design tool
 
 ### Week 9: Classes and SOLID Principles
 **Priority**: 🔥 Essential - Foundation of good design
@@ -458,8 +460,10 @@ Create a personal tracking document to monitor your clean code journey:
 
 ## Remaining Weeks - 🚧 PLANNED
 
-## Design Phase (Weeks 8-10) - 🚧 PLANNED
-- [ ] Week 8: Unit Tests and TDD *(content to be developed)*
+## Design Phase (Weeks 8-10) - ✅ Week 8 Complete!
+- [x] Week 8: Unit Tests and TDD *(COMPLETE!)*
+
+## Remaining Design Phase - 🚧 PLANNED  
 - [ ] Week 9: Classes and SOLID Principles *(content to be developed)*
 - [ ] Week 10: Systems and Architecture *(content to be developed)*
 
