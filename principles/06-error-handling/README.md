@@ -996,4 +996,24 @@ def withdraw_money(account_id: str, amount: float) -> float:
 4. **Preserve generic handler** for truly unexpected errors
 5. **Add appropriate logging and recovery** for each case
 
+---
+
+## 🚀 **Next Steps**
+
+**You've completed Principle 6: Error Handling! 🎉**
+
+### **Immediate Next Actions:**
+1. **[📝 Practice with Exercises →](../../exercises/principle-practice/06-error-handling/README.md)** - Master resilience patterns and exception design
+2. **[📋 Use the Daily Checklist](./checklist.md)** - Apply error handling best practices
+3. **[👀 Study the Examples](../../examples/before-after/error-handling-examples/README.md)** - See return codes become clean exceptions
+
+### **Continue Your Learning Journey:**
+- **[📖 Next: Principle 7 - Boundaries →](../07-boundaries/README.md)** - Learn to manage external dependencies
+- **[📚 Back to Learning Path](../../LEARNING_PATH.md)** - Continue building robustness skills
+- **[🎯 Apply to Your Code](../../LEARNING_PATH.md#progress-tracking-and-assessment)** - Add resilience patterns to your applications
+
+**Ready for the next principle?** Clean boundaries and integration! **[Start Principle 7 →](../07-boundaries/README.md)**
+
+---
+
 Remember: Good error handling doesn't just catch errors - it helps create systems that are resilient, debuggable, and maintainable!

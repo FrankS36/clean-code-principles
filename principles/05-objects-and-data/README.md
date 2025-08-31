@@ -678,4 +678,24 @@ public class Customer {
 3. **Hide internal state** with private fields
 4. **Add invariant protection**
 
+---
+
+## 🚀 **Next Steps**
+
+**You've completed Principle 5: Objects and Data Structures! 🎉**
+
+### **Immediate Next Actions:**
+1. **[📝 Practice with Exercises →](../../exercises/principle-practice/05-objects/README.md)** - Master object design and abstraction
+2. **[📋 Use the Daily Checklist](./checklist.md)** - Apply encapsulation principles in daily coding
+3. **[👀 Study the Examples](../../examples/before-after/objects-examples/README.md)** - See anemic vs rich domain models
+
+### **Continue Your Learning Journey:**
+- **[📖 Next: Principle 6 - Error Handling →](../06-error-handling/README.md)** - Learn robust error management
+- **[📚 Back to Learning Path](../../LEARNING_PATH.md)** - Continue the Robustness Phase
+- **[🎯 Apply to Your Code](../../LEARNING_PATH.md#progress-tracking-and-assessment)** - Refactor your objects and data structures
+
+**Ready for the next principle?** Robust error handling and resilience! **[Start Principle 6 →](../06-error-handling/README.md)**
+
+---
+
 Remember: The goal is not to follow rules blindly, but to create code that clearly expresses intent and is easy to understand and modify!

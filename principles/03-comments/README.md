@@ -751,12 +751,21 @@ Before adding a comment, ask yourself:
 
 ---
 
-## 🔗 What's Next?
+## 🚀 **Next Steps**
 
-Once you've mastered the art of minimal, valuable commenting, you're ready for:
-- **[Principle 4: Formatting](../04-formatting/README.md)** - Code layout and visual structure
-- **[Comment Examples](./examples/README.md)** - See good and bad comments in action
-- **[Comment Exercises](../../exercises/principle-practice/03-comments/README.md)** - Practice writing self-documenting code
+**You've completed Principle 3: Comments! 🎉**
+
+### **Immediate Next Actions:**
+1. **[📝 Practice with Exercises →](../../exercises/principle-practice/03-comments/README.md)** - Practice self-documenting code
+2. **[📋 Use the Daily Checklist](./checklist.md)** - Apply comment strategies in daily coding
+3. **[👀 Study the Examples](../../examples/before-after/comment-examples/README.md)** - See over-commented code become clean
+
+### **Continue Your Learning Journey:**
+- **[📖 Next: Principle 4 - Formatting →](../04-formatting/README.md)** - Learn professional code organization
+- **[📚 Back to Learning Path](../../LEARNING_PATH.md)** - Track your progress through foundation phase
+- **[🎯 Apply to Your Code](../../LEARNING_PATH.md#progress-tracking-and-assessment)** - Remove unnecessary comments from your projects
+
+**Ready for the next principle?** Professional formatting and code organization! **[Start Principle 4 →](../04-formatting/README.md)**
 
 ---
 
