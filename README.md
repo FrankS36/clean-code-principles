@@ -8,9 +8,9 @@
 
 Welcome to your Clean Code learning journey! This repository contains everything you need to learn and master the fundamental principles of writing clean, maintainable, and readable code through theory, examples, and hands-on practice.
 
-## ⭐ **Foundation + Robustness + Integration + Testing (Week 8) Complete!**
+## ⭐ **Foundation + Robustness + Integration + Testing + Design (Week 9) Complete!**
 
-✅ **8 Complete Principles** with full content, examples, and exercises  
+✅ **9 Complete Principles** with full content, examples, and exercises  
 ✅ **60+ Files** of structured learning materials  
 ✅ **20,000+ Lines** of educational content  
 ✅ **Ready to Use** - Start learning immediately!
@@ -93,7 +93,7 @@ This project follows the principle that **clean code is not about following rigi
 
 ## 📈 Current Status
 
-### ✅ **Available Now (Foundation + Robustness + Integration + Testing)**
+### ✅ **Available Now (Foundation + Robustness + Integration + Testing + Design)**
 - **Week 1**: [Meaningful Names](./principles/01-meaningful-names/) - Complete with examples and exercises
 - **Week 2**: [Functions](./principles/02-functions/) - Complete with side effects management
 - **Week 3**: [Comments](./principles/03-comments/) - Complete with self-documenting techniques  
@@ -102,11 +102,12 @@ This project follows the principle that **clean code is not about following rigi
 - **Week 6**: [Error Handling](./principles/06-error-handling/) - Complete with resilience patterns
 - **Week 7**: [Boundaries and Integration](./principles/07-boundaries/) - Complete with adapter patterns and anti-corruption layers
 - **Week 8**: [Unit Tests and TDD](./principles/08-unit-tests/) - Complete with Test-Driven Development mastery and comprehensive testing strategies
+- **Week 9**: [Classes and SOLID Principles](./principles/09-classes/) - Complete with all five SOLID principles and advanced class design
 
-### 🚧 **Coming Soon (Remaining Content)**
+### 🚧 **Coming Soon (Final Content)**
 
 ### 🎯 **Future Development**
-- **Week 9-10**: Classes (SOLID), Systems Architecture
+- **Week 10**: Systems and Architecture
 - Assessment tools and progress tracking integration
 - Advanced refactoring scenarios
 
