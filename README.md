@@ -8,11 +8,11 @@
 
 Welcome to your Clean Code learning journey! This repository contains everything you need to learn and master the fundamental principles of writing clean, maintainable, and readable code through theory, examples, and hands-on practice.
 
-## ⭐ **Foundation + Week 5 Complete!**
+## ⭐ **Foundation + Robustness (Weeks 5-6) Complete!**
 
-✅ **5 Complete Principles** with full content, examples, and exercises  
-✅ **50+ Files** of structured learning materials  
-✅ **15,000+ Lines** of educational content  
+✅ **6 Complete Principles** with full content, examples, and exercises  
+✅ **60+ Files** of structured learning materials  
+✅ **20,000+ Lines** of educational content  
 ✅ **Ready to Use** - Start learning immediately!
 
 ## 🎯 Learning Objectives
@@ -93,15 +93,15 @@ This project follows the principle that **clean code is not about following rigi
 
 ## 📈 Current Status
 
-### ✅ **Available Now (Foundation + Week 5)**
+### ✅ **Available Now (Foundation + Robustness)**
 - **Week 1**: [Meaningful Names](./principles/01-meaningful-names/) - Complete with examples and exercises
 - **Week 2**: [Functions](./principles/02-functions/) - Complete with side effects management
 - **Week 3**: [Comments](./principles/03-comments/) - Complete with self-documenting techniques  
 - **Week 4**: [Formatting](./principles/04-formatting/) - Complete with automated tools guide
 - **Week 5**: [Objects and Data Structures](./principles/05-objects-and-data/) - Complete with rich domain modeling
+- **Week 6**: [Error Handling](./principles/06-error-handling/) - Complete with resilience patterns
 
-### 🚧 **Coming Soon (Robustness Phase)**
-- **Week 6**: Error Handling  
+### 🚧 **Coming Soon (Remaining Content)**
 - **Week 7**: Boundaries and Integration
 
 ### 🎯 **Future Development**

@@ -212,7 +212,7 @@ This guide provides a structured approach to learning clean code principles. Fol
 
 ### Week 6: Error Handling
 **Priority**: 🔥 Essential - Critical for production code
-**Status**: 🚧 **PLANNED** - Content to be developed
+**Status**: ✅ **COMPLETE** - Full content available
 
 **Learning Goals**:
 - Write clean exception handling code
@@ -220,16 +220,34 @@ This guide provides a structured approach to learning clean code principles. Fol
 - Learn to fail fast and provide meaningful errors
 - Master error handling patterns
 
-**Planned Activities**:
-1. **Read the principle**: `/principles/06-error-handling/README.md` *(to be created)*
-2. **Study error patterns**: `/examples/before-after/error-handling-examples/` *(to be created)*
-3. **Complete error scenarios**: `/exercises/principle-practice/06-error-handling/` *(to be created)*
-4. **Implement monitoring**: Error logging and recovery patterns
+**Activities**:
+1. **Read the principle**: `/principles/06-error-handling/README.md`
+   - 8 core guidelines (Use Exceptions, Provide Context, Define Exception Classes, etc.)
+   - Resilience patterns (Circuit Breaker, Retry with Backoff, Resource Management)
+   - Error monitoring and observability techniques
+
+2. **Study dramatic transformations**: `/examples/before-after/error-handling-examples/`
+   - `return-codes-bad.java` → `exceptions-good.java` (cluttered error checking → clean business logic)
+   - `silent-failures-bad.py` → `proper-error-handling-good.py` (hidden failures → robust monitoring)
+   - Real-world payment processing and data processing examples
+
+3. **Complete resilience challenges**: `/exercises/principle-practice/06-error-handling/`
+   - `README.md` - 5 exercise progression from basic to expert level
+   - Return codes to exceptions, exception hierarchies, retry/circuit breaker patterns
+   - Complete resilient system design with e-commerce order processing
+
+4. **Apply production standards**: `/principles/06-error-handling/checklist.md`
+   - Pre-commit error handling criteria
+   - Code review guidelines for resilience and monitoring
+   - Error pattern identification and anti-pattern avoidance
+
+5. **Master resilience patterns**: Focus on retry logic, circuit breakers, and graceful degradation
 
 **Success Metrics**:
 - Errors are caught and handled appropriately
 - Error messages are clear and actionable
 - No swallowed exceptions or ignored errors
+- Score 4+ on error handling resilience self-assessment
 
 ### Week 7: Boundaries and Integration
 **Priority**: 🟡 Important - Essential for real-world applications
@@ -419,8 +437,16 @@ Create a personal tracking document to monitor your clean code journey:
 - **Key Insights**: [Your learnings about objects vs data structures]
 - **Applied in Projects**: [Rich domain models you've created]
 
+### Week 6: Error Handling
+- [ ] **Read**: `/principles/06-error-handling/README.md` (8 guidelines + resilience patterns)
+- [ ] **Examples**: `/examples/before-after/error-handling-examples/` (return codes → exceptions)
+- [ ] **Practice**: `/exercises/principle-practice/06-error-handling/` (5 exercises)
+- [ ] **Reference**: `/principles/06-error-handling/checklist.md`
+- [ ] **Self-Assessment**: Score ___/5 on error handling resilience
+- **Key Insights**: [Your learnings about robust error handling]
+- **Applied in Projects**: [Resilience patterns you've implemented]
+
 ## Remaining Weeks - 🚧 PLANNED
-- [ ] Week 6: Error Handling *(content to be developed)*
 - [ ] Week 7: Boundaries and Integration *(content to be developed)*
 
 ## Design Phase (Weeks 8-10) - 🚧 PLANNED
