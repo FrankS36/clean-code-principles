@@ -30,7 +30,17 @@ build/
 notes/
 drafts/
 personal/
-MARKETING_STRATEGY.md
+
+# Personal documentation and planning (internal use only)
+.personal-docs/
+
+# Any future planning documents (if not in .personal-docs)
+*_PLAN.md
+*_STRATEGY.md
+*_AUDIT.md
+*_ASSESSMENT.md
+*_NOTES.md
+*_TODO.md
 
 # Backup files
 *.bak

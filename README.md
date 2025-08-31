@@ -47,12 +47,41 @@ By the end of this project, you will:
 - **Code Smells** - Identifying problematic code patterns
 - **Side Effects** - Understanding and managing function side effects
 
-## 🗂️ Project Structure
+## 🧭 **Quick Navigation**
+
+### **🎓 Start Learning**
+- **[📖 Learning Path](./LEARNING_PATH.md)** - Your complete 10-week journey through clean code mastery
+- **[📚 Principles](./principles/)** - Theory and examples for all 10 clean code principles
+- **[🏋️ Exercises](./exercises/)** - Hands-on practice problems and coding challenges
+- **[🔄 Examples](./examples/)** - Before/after code transformations and real-world cases
+
+### **📋 Documentation & Reference**
+- **[📖 Documentation](./docs/)** - All repository documentation, guides, and technical reference
+
+### **🛠️ Resources & Tools**
+- **[🔧 Resources](./resources/)** - Supporting materials, concepts, and references
+- **[⚙️ Scripts](./scripts/)** - Automation and utility scripts
+
+---
+
+## 🗂️ Detailed Project Structure
 
 ```
-Clean Code/
-├── README.md                    # This file - project overview
-├── PROJECT_STRUCTURE.md         # Detailed structure guide
+clean-code-education/
+├── 📋 Main Documentation
+│   ├── README.md                # Project overview and entry point
+│   ├── LEARNING_PATH.md         # 10-week structured learning guide
+│   └── LICENSE                  # MIT license
+│
+├── 📚 Core Learning Content
+│   ├── principles/              # 10 clean code principles (theory)
+│   ├── exercises/               # Hands-on practice problems
+│   ├── examples/                # Before/after demonstrations
+│   └── resources/               # Supporting materials
+│
+├── 📖 Documentation & Reference
+│   ├── docs/                    # All documentation and reference materials
+│   └── scripts/                 # Automation and utility scripts
 ├── LEARNING_PATH.md            # Recommended learning progression
 ├── principles/                 # Core clean code principles
 ├── examples/                   # Before/after code examples
