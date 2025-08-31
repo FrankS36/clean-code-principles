@@ -1,0 +1,42 @@
+# Clean Code Learning Project - Git Ignore
+
+# Operating System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Build artifacts (if we add any build processes later)
+dist/
+build/
+*.log
+
+# Personal notes and drafts
+notes/
+drafts/
+personal/
+
+# Backup files
+*.bak
+*.backup
+
+# Local environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
