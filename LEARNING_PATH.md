@@ -173,7 +173,7 @@ This guide provides a structured approach to learning clean code principles. Fol
 
 ### Week 5: Objects and Data Structures
 **Priority**: 🟡 Important - Foundation for larger systems
-**Status**: 🚧 **PLANNED** - Content to be developed
+**Status**: ✅ **COMPLETE** - Full content available
 
 **Learning Goals**:
 - Understand data abstraction principles
@@ -181,16 +181,34 @@ This guide provides a structured approach to learning clean code principles. Fol
 - Master encapsulation techniques
 - Apply Tell Don't Ask principle
 
-**Planned Activities**:
-1. **Read the principle**: `/principles/05-objects-and-data/README.md` *(to be created)*
-2. **Study abstraction examples**: `/examples/before-after/objects-examples/` *(to be created)*
-3. **Complete design exercises**: `/exercises/principle-practice/05-objects/` *(to be created)*
-4. **Apply design patterns**: Data vs. Object distinction exercises
+**Activities**:
+1. **Read the principle**: `/principles/05-objects-and-data/README.md`
+   - 7 core guidelines (Data Abstraction, Objects vs Data Structures, Tell Don't Ask, etc.)
+   - Design patterns (Active Record, Repository, Value Objects)
+   - Performance considerations and refactoring techniques
+
+2. **Study dramatic transformations**: `/examples/before-after/objects-examples/`
+   - `anemic-domain-bad.js` → `rich-domain-good.js` (scattered logic → encapsulated behavior)
+   - `data-vs-objects-examples.ts` - When to use objects vs data structures
+   - Real-world banking and e-commerce examples
+
+3. **Complete design challenges**: `/exercises/principle-practice/05-objects/`
+   - `README.md` - 5 exercise progression from basic to expert level
+   - Objects vs data structures identification, rich domain design, Tell Don't Ask refactoring
+   - Complex domain modeling with financial and hotel reservation systems
+
+4. **Apply professional standards**: `/principles/05-objects-and-data/checklist.md`
+   - Pre-commit object design criteria
+   - Code review guidelines for encapsulation and abstraction
+   - Anti-pattern identification and refactoring strategies
+
+5. **Master encapsulation**: Focus on data hiding, invariant protection, and proper abstractions
 
 **Success Metrics**:
 - Objects hide implementation details effectively
 - Clear distinction between data and behavior
 - Minimal coupling between objects
+- Score 4+ on encapsulation design self-assessment
 
 ### Week 6: Error Handling
 **Priority**: 🔥 Essential - Critical for production code
@@ -390,8 +408,18 @@ Create a personal tracking document to monitor your clean code journey:
 - **Key Insights**: [Your learnings about professional code presentation]
 - **Applied in Projects**: [Code you've reformatted and organized]
 
-## Robustness Phase (Weeks 5-7) - 🚧 PLANNED
-- [ ] Week 5: Objects and Data Structures *(content to be developed)*
+## Robustness Phase (Weeks 5-7) - ✅ WEEK 5 COMPLETE
+
+### Week 5: Objects and Data Structures
+- [ ] **Read**: `/principles/05-objects-and-data/README.md` (7 guidelines + design patterns)
+- [ ] **Examples**: `/examples/before-after/objects-examples/` (anemic → rich domain)
+- [ ] **Practice**: `/exercises/principle-practice/05-objects/` (5 exercises)
+- [ ] **Reference**: `/principles/05-objects-and-data/checklist.md`
+- [ ] **Self-Assessment**: Score ___/5 on encapsulation design
+- **Key Insights**: [Your learnings about objects vs data structures]
+- **Applied in Projects**: [Rich domain models you've created]
+
+## Remaining Weeks - 🚧 PLANNED
 - [ ] Week 6: Error Handling *(content to be developed)*
 - [ ] Week 7: Boundaries and Integration *(content to be developed)*
 

@@ -8,11 +8,11 @@
 
 Welcome to your Clean Code learning journey! This repository contains everything you need to learn and master the fundamental principles of writing clean, maintainable, and readable code through theory, examples, and hands-on practice.
 
-## ⭐ **Foundation Phase Complete!**
+## ⭐ **Foundation + Week 5 Complete!**
 
-✅ **4 Complete Principles** with full content, examples, and exercises  
-✅ **40+ Files** of structured learning materials  
-✅ **11,750+ Lines** of educational content  
+✅ **5 Complete Principles** with full content, examples, and exercises  
+✅ **50+ Files** of structured learning materials  
+✅ **15,000+ Lines** of educational content  
 ✅ **Ready to Use** - Start learning immediately!
 
 ## 🎯 Learning Objectives
@@ -93,14 +93,14 @@ This project follows the principle that **clean code is not about following rigi
 
 ## 📈 Current Status
 
-### ✅ **Available Now (Foundation Phase)**
+### ✅ **Available Now (Foundation + Week 5)**
 - **Week 1**: [Meaningful Names](./principles/01-meaningful-names/) - Complete with examples and exercises
 - **Week 2**: [Functions](./principles/02-functions/) - Complete with side effects management
 - **Week 3**: [Comments](./principles/03-comments/) - Complete with self-documenting techniques  
 - **Week 4**: [Formatting](./principles/04-formatting/) - Complete with automated tools guide
+- **Week 5**: [Objects and Data Structures](./principles/05-objects-and-data/) - Complete with rich domain modeling
 
 ### 🚧 **Coming Soon (Robustness Phase)**
-- **Week 5**: Objects and Data Structures
 - **Week 6**: Error Handling  
 - **Week 7**: Boundaries and Integration
 
