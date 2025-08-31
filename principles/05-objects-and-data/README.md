@@ -2,6 +2,11 @@
 
 > *"Objects hide their data behind abstractions and expose functions that operate on that data. Data structures expose their data and have no meaningful functions."* - Robert C. Martin
 
+## 🧭 **Navigation**
+← **[Previous: Formatting](../04-formatting/README.md)** | **[Learning Path](../../LEARNING_PATH.md)** | **[Next: Error Handling →](../06-error-handling/README.md)**
+
+**This Principle:** [Examples](../../examples/before-after/objects-examples/README.md) | [Exercises](../../exercises/principle-practice/05-objects/README.md) | [Checklist](./checklist.md)
+
 ## 🎯 Overview
 
 Objects and data structures represent two fundamentally different approaches to organizing code. Understanding when and how to use each approach is crucial for creating clean, maintainable systems. This principle teaches you to make conscious decisions about data organization and abstraction.

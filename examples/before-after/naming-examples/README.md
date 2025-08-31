@@ -2,6 +2,9 @@
 
 This directory contains real-world examples showing the transformation from poor naming to clean, meaningful naming. Each example demonstrates specific naming principles in action.
 
+## 🧭 **Navigation**
+← **[Back to Principle 1](../../../principles/01-meaningful-names/README.md)** | **[Exercises](../../../exercises/principle-practice/01-meaningful-names/README.md)** | **[Checklist](../../../principles/01-meaningful-names/checklist.md)** →
+
 ## 📚 Example Categories
 
 ### 1. Variable Naming Examples

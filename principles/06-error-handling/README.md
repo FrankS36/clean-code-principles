@@ -2,6 +2,11 @@
 
 > *"Error handling is important, but if it obscures logic, it's wrong."* - Robert C. Martin
 
+## 🧭 **Navigation**
+← **[Previous: Objects](../05-objects-and-data/README.md)** | **[Learning Path](../../LEARNING_PATH.md)** | **[Next: Boundaries →](../07-boundaries/README.md)**
+
+**This Principle:** [Examples](../../examples/before-after/error-handling-examples/README.md) | [Exercises](../../exercises/principle-practice/06-error-handling/README.md) | [Checklist](./checklist.md)
+
 ## 🎯 Overview
 
 Clean error handling is crucial for building robust, maintainable applications. It's not just about catching exceptions - it's about designing systems that gracefully handle failure, provide meaningful feedback, and maintain system integrity. This principle teaches you to write error handling code that is as clean and understandable as your business logic.

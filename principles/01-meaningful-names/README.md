@@ -2,6 +2,11 @@
 
 > *"The name of a variable, function, or class, should answer all the big questions. It should tell you why it exists, what it does, and how it is used."* - Robert C. Martin
 
+## 🧭 **Navigation**
+← **[Learning Path](../../LEARNING_PATH.md)** | **[Main README](../../README.md)** | **[Next: Functions →](../02-functions/README.md)**
+
+**This Principle:** [Examples](../../examples/before-after/naming-examples/README.md) | [Exercises](../../exercises/principle-practice/01-meaningful-names/README.md) | [Checklist](./checklist.md)
+
 ## 🎯 Learning Objectives
 
 By the end of this section, you will:

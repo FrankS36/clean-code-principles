@@ -2,6 +2,12 @@
 
 This guide provides a structured approach to learning clean code principles. Follow this path for optimal understanding and skill development.
 
+## 🧭 **Navigation**
+← **[Main README](./README.md)** | **[Project Structure](./PROJECT_STRUCTURE.md)** | **[Current Status](./PROJECT_STATUS.md)** →
+
+**Quick Jump to Principles:**
+[Week 1: Names](./principles/01-meaningful-names/README.md) | [Week 2: Functions](./principles/02-functions/README.md) | [Week 3: Comments](./principles/03-comments/README.md) | [Week 4: Formatting](./principles/04-formatting/README.md) | [Week 5: Objects](./principles/05-objects-and-data/README.md) | [Week 6: Errors](./principles/06-error-handling/README.md)
+
 ## 🎯 Learning Approach
 
 **Time Investment**: Plan for 2-3 hours per principle for thorough understanding
@@ -529,4 +535,21 @@ Use these criteria to evaluate your progress (1-5 scale):
 
 ---
 
-Ready to begin? Start with [Meaningful Names](./principles/01-meaningful-names/README.md) or take the [Initial Assessment](./exercises/assessment/README.md) to find your starting point!
+## 🚀 **Ready to Start Learning?**
+
+### **Recommended Path:**
+1. **[Begin with Week 1: Meaningful Names →](./principles/01-meaningful-names/README.md)** - Foundation of all clean code
+2. **[Follow the structured progression](./principles/02-functions/README.md)** - Each principle builds on the previous
+3. **[Track your progress](#progress-tracking-and-assessment)** - Use our comprehensive learning framework
+
+### **Alternative Entry Points:**
+- **[Jump to a specific principle](./principles/)** - If you want to focus on a particular area
+- **[Browse all examples](./examples/before-after/)** - See dramatic code transformations
+- **[Try the exercises](./exercises/principle-practice/)** - Hands-on practice for each principle
+
+### **Get Support:**
+- **[Project Structure Guide](./PROJECT_STRUCTURE.md)** - How everything is organized
+- **[Current Status](./PROJECT_STATUS.md)** - What's complete and what's coming
+- **[Main README](./README.md)** - Project overview and getting started
+
+**Happy learning!** 🎯

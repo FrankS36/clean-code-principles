@@ -2,6 +2,9 @@
 
 Welcome to the hands-on exercises for mastering meaningful names! These exercises will help you develop the skill of choosing clear, intention-revealing names in various programming contexts.
 
+## 🧭 **Navigation**
+← **[Back to Principle 1](../../../principles/01-meaningful-names/README.md)** | **[Examples](../../../examples/before-after/naming-examples/README.md)** | **[Checklist](../../../principles/01-meaningful-names/checklist.md)** →
+
 ## 🎯 Exercise Overview
 
 ### Skill Level: **Beginner to Intermediate**

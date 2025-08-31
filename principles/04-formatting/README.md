@@ -2,6 +2,11 @@
 
 > *"Code formatting is about communication, and communication is the professional developer's first order of business."* - Robert C. Martin
 
+## 🧭 **Navigation**
+← **[Previous: Comments](../03-comments/README.md)** | **[Learning Path](../../LEARNING_PATH.md)** | **[Next: Objects →](../05-objects-and-data/README.md)**
+
+**This Principle:** [Examples](../../examples/before-after/formatting-examples/README.md) | [Exercises](../../exercises/principle-practice/04-formatting/README.md) | [Checklist](./checklist.md)
+
 ## 🎯 Learning Objectives
 
 By the end of this section, you will:

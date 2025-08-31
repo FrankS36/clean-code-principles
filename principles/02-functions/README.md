@@ -2,6 +2,11 @@
 
 > *"Functions should do one thing. They should do it well. They should do it only."* - Robert C. Martin
 
+## 🧭 **Navigation**
+← **[Previous: Names](../01-meaningful-names/README.md)** | **[Learning Path](../../LEARNING_PATH.md)** | **[Next: Comments →](../03-comments/README.md)**
+
+**This Principle:** [Examples](../../examples/before-after/function-examples/README.md) | [Exercises](../../exercises/principle-practice/02-functions/README.md) | [Checklist](./checklist.md) | [Side Effects Guide](../../resources/concepts/side-effects.md)
+
 ## 🎯 Learning Objectives
 
 By the end of this section, you will:

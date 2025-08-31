@@ -131,3 +131,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Ready to begin your clean code journey?**  
 🚀 **[Start with the Learning Path](./LEARNING_PATH.md)** or 🎯 **[Jump to Meaningful Names](./principles/01-meaningful-names/README.md)**
+
+---
+
+## 🧭 **Quick Navigation**
+- 📖 **[Learning Path](./LEARNING_PATH.md)** - Structured 10-week progression
+- 🗂️ **[Project Structure](./PROJECT_STRUCTURE.md)** - How everything is organized  
+- 📊 **[Current Status](./PROJECT_STATUS.md)** - What's complete and what's next
+- 🎯 **[Start Learning →](./principles/01-meaningful-names/README.md)** - Begin with Principle 1

@@ -2,6 +2,11 @@
 
 > *"Don't comment bad code—rewrite it."* - Brian Kernighan and P.J. Plauger
 
+## 🧭 **Navigation**
+← **[Previous: Functions](../02-functions/README.md)** | **[Learning Path](../../LEARNING_PATH.md)** | **[Next: Formatting →](../04-formatting/README.md)**
+
+**This Principle:** [Examples](../../examples/before-after/comment-examples/README.md) | [Exercises](../../exercises/principle-practice/03-comments/README.md) | [Checklist](./checklist.md)
+
 ## 🎯 Learning Objectives
 
 By the end of this section, you will:
